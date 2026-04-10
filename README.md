@@ -12,6 +12,7 @@ Hi 👋, I'm Muhammad Abdullah.
 
 💡 I love building small projects to improve my skills
 
+
 🧠 Current Focus
 
 Improving Python programming skills
@@ -22,9 +23,11 @@ Building mini projects (banking system, asset tracker, etc.)
 
 Practicing problem solving & logic building
 
+
 🛠️ Tech Stack Languages:
 
 Python 🐍
+
 C / C++ (if applicable)
 
 SQL
@@ -42,6 +45,7 @@ Jupyter Notebook
 📊 GitHub Stats GitHub Stats Top Languages
 
 
+
 💻 Featured Projects
 
 🏦 Banking System (Python) A simple console-based banking system with features like deposit, withdrawal, and balance check.
@@ -53,6 +57,9 @@ Jupyter Notebook
 📫 Connect With Me
 
 GitHub: abdullahh6
+
 Email: btwasad85@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-739047393?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
 ⭐ Always learning, always building.
